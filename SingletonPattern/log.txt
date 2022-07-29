@@ -1,0 +1,3 @@
+First log (Time = 2022/07/29 20:18:40) 
+Second log (Time = 2022/07/29 20:18:42) 
+FileLogger (Time = 2022/07/29 20:18:45) 
