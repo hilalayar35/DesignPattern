@@ -1,2 +1,2 @@
 # DesignPattern
- Design Pattern Examples with Java
+ Design Patterns Examples with Java Programming Language
